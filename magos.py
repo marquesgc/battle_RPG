@@ -65,7 +65,7 @@ class Mage(Character):
 class Game():
     def __init__(self):
         self.warrior = Tank(name="Guilherme", health=100, level=5, armor=30)   
-        self.mage = Mage(name="Gabriela", health=100, level=5, mana=100)
+        self.mage = Mage(name="Jorge", health=100, level=5, mana=100)
     
     def start_battle(self):
         print(f"Batalha iniciada!\n{self.warrior.get_name()} e {self.mage.get_name()} entram em combate!\nO Guerreiro tem {self.warrior.get_armor()} de armadura \nO Mago tem {self.mage.get_mana()} de mana" )
