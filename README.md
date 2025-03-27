@@ -1,2 +1,8 @@
-# battle_RPG
-Projeto de estudo sobre Herança e Polimorfismo em Python. Implementação de um sistema simples de batalha entre personagens com diferentes tipos (Guerreiro e Mago), utilizando conceitos de herança, polimorfismo e encapsulamento
+Este é um jogo simples de batalha entre dois personagens: um guerreiro e um mago.
+
+## Como rodar
+1. Clone o repositório.
+2. Execute o código no terminal.
+
+## Tecnologias
+- Python 3
